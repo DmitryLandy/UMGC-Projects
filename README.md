@@ -11,4 +11,4 @@
     
 
 ## Why the project is useful
-- These projects are able to provide the courses' difficulty levels and my understanding of them. 
+- These projects show the type of courses I took, their standard, and my understanding of the subjects.
